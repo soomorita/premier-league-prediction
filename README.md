@@ -42,6 +42,10 @@ matplotlib
 ## References
 1. Kaggle. *Premier League Matches Dataset.* Retrieved 2024/12/9, from  
 https://www.kaggle.com/datasets/evangower/premier-league-matches-19922022
+2. Breiman, L. (2001). Random Forests. Machine Learning, 45, 5–32.
+https://doi.org/10.1023/A:1010933404324
+3. Keras. SimpleRNN Layer Documentation. Retrieved 2024/12/24, from
+4. https://keras.io/api/layers/recurrent_layers/simple_rnn/
 
 ---
 
