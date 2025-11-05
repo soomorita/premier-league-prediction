@@ -22,12 +22,12 @@ Predicting Premier League match outcomes is a critical area in sports analytics,
 ---
 
 ## Requirements
-pandas
-numpy
-scikit-learn
-xgboost
-tensorflow
-matplotlib
+- pandas
+- numpy
+- scikit-learn
+- xgboost
+- tensorflow
+- matplotlib
 
 ---
 
